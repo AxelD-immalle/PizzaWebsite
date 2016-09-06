@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Pizzazaak De Snelle</title>
 </head>
   <body>
+  <h1>Pizzazaak De Snelle</h1>
   <div id="Menu">
         <ul>
-          <li><"Item"></li>
+          <li><a href="#">Home</a></li>
         </ul>
     </div>
   </body>
