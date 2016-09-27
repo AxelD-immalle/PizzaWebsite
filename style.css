@@ -1,0 +1,29 @@
+body {
+  background: #4b4a49;
+}
+
+.title {
+  font-size: 75px;
+  color: #0a6520;
+  font-style: italic;
+  margin-top: 6vw;
+}
+
+.pure-img {
+width:100%;
+position:absolute;
+top:-1vw;
+z-index: -1;
+overflow:hidden;
+}
+
+.pure-menu {
+  margin-top: 6vw;
+}
+.selected {
+  background: #0a6520;
+}
+
+.pure-menu-link {
+  color: #FFF;
+}
